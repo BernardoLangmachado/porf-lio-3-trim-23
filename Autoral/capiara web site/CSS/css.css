@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cordofundo{
+    background-color: rgb(48, 189, 189);
+
+}
+.titulo{
+    color: rgb(104, 90, 13);
+    font-size: 3rem;
+    text-align: center;
+    
+}
+.section1{
+    color: rgb(104, 90, 13);
+    font-size: 1rem;
+    text-align: right;
+}
+.imagem{
+     box-sizing: initial;
+}
+.primeirolink{
+    text-align: center;
+}
+figure {
+    width: 600px;
+    ;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+
+}
+.segundolink{
+    text-align: center;
+}
+.terceirolink{
+    text-align: center;
+}
+.section2{
+    text-align: center;
+}
